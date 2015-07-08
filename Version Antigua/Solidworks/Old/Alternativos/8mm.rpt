@@ -1,0 +1,63 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : 
+Recibiendo I.D. de producto de sistema: 
+Nombre de archivo                    : C:\Users\Fernando\ownCloud\Ulticampy\Solidworks\Alternativos\8mm.iges
+Enviando sistema               : Rhinoceros ( Jan  3 2013 )
+Versión de preprocesador         : Trout Lake IGES 012 Jan  3 2013
+Fecha de creación del archivo           : 150301.161457
+Fecha de creación del modelo          : 150301.161457
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : 
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:              14
+  Número de dígitos significativos más alto:                     14
+  Número de dígitos significativos promedio:                13.8733
+  Distancia máxima hasta el origen:                          106.409
+  Distancia mínima hasta el origen:                          10.2497
+  Número de dígitos significativos efectivo:              13.9161
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+102  Composite curve                              21496     21496
+126  Rational B-spline curve                      64488     64488
+128  Rational B-spline surface                    10748     10748
+142  Curve on a parametric surface                10748     10748
+144  Trimmed parametric surface                   10748     10748
+314  Color definition                                 1         1
+406  Property                                         3         3
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie3162
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: domingo, marzo 01, 2015 17:21:20
+Hora de finalización: domingo, marzo 01, 2015 17:22:52
+Tiempo de procesamiento: 0 days, 00 hours, 01 mins, 32 secs
