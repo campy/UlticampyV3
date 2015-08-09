@@ -1,0 +1,14 @@
+Soprepasar Z 0.20mm
+Compensacion XY -0.5
+Compensacion Z 0.10
+
+En programa de contorno (cortes) quitar compensacion Z y marcar soprepasar Z
+
+
+En codigo G añadir Z5 al inicio
+Quitar los G28 del final y añadir Z10 al final
+
+
+Multipasadas:
+Desbaste 1 / 1mm
+Acabado  1 / 0.5mm

@@ -1,0 +1,9 @@
+﻿"Ancho_panel"= 385'Ancho del panel
+"Alto_panel"= 420'Alto del panel izquierdo
+"Altura_base_taladros"= 70'Alto taladros de la base eje Z
+"Altura_superior_taladros"= 8mm'Distancia taladros a top
+"Distancia_vert_entre_horizontales_ensambles"= "Alto_panel" - "Altura_base_taladros" - "Altura_superior_taladros"'Distancia vertical entre horizontales de ensambles
+"Latrales_separacion_barras_a_escalon_bajo"= 12.5'Separación entre las barras y el escalón inferior de la parte superior
+"Espacio_tensor_correa_motor"= 8.5mm'Espacio para mover el motor en vertical y tensar la correa
+"Ancho_panel_interior"= "Ancho_panel" - 9mm'Ancho panel interior
+"Fondo_panel_interior"= "Ancho_panel" - 9mm'Fondo panel interior
